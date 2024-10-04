@@ -1,0 +1,16 @@
+{
+    "configurations": [
+      {
+        "name": "Win32",
+        "cppStandard": "c++17",  // or c++11, c++14, etc.
+        "includePath": [
+            "${workspaceFolder}/**"
+        ],
+        "defines": [],
+        "compilerPath": "C:/path/to/your/compiler",
+        "intelliSenseMode": "msvc-x64"
+      }
+    ],
+    "version": 4
+  }
+  
