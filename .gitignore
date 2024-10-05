@@ -1,0 +1,38 @@
+# Build directory
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Data files
+*.csv
+
+# Log files
+*.log
+
+# Generated visualization files
+*.dot
+*.png
+
+# Config file (may contain sensitive information)
+config.ini
